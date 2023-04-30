@@ -1,3 +1,5 @@
+alert("Bienvenido a la Clinica Ignacio Billalobos. Siga los pasos para poder sacar su turno.")
+
 //Crear clases:
 
 class Paciente {
