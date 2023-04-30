@@ -131,8 +131,3 @@ switch (paciente1.especialidad) {
     default:
         alert("En este momento no hay prestadores para esa especialidad");
 }
-
-
-
-
-
